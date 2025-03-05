@@ -1,1 +1,2 @@
 Practica git pull
+aca se modifico del local.
